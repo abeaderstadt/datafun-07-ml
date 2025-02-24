@@ -48,7 +48,7 @@ IMPORTANT: Replace the commit message with a clear and descriptive note about wh
 ### **4. Run Scripts as needed:**
   - py myfile.py   
 ### **5. Run Jupyter Notebooks as needed:**
- - Create a kernel from the virtual environment using command:
+ - Create a kernel from the virtual environment using:
  - py -m ipykernel install --user --name .venv --display-name "Python (.venv)"
  - click the kernel selector in the top-right corner of the notebook editor and choose the interpreter associated with your .venv.
  - Click on a cell and press Shift+Enter to execute it and move to the next cell.
