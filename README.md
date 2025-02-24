@@ -62,7 +62,7 @@ IMPORTANT: Replace the commit message with a clear and descriptive note about wh
 
 
 ---
-# P7 Specification
+# Project 7
 ## **Project Specifications**
 
 For **Project 7**, we'll follow the guided projects from Chapters 10.16 and 15.4 of your textbook. Below are the steps to complete the project:
