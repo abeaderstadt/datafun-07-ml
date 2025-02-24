@@ -132,5 +132,8 @@ scipy
 matplotlib  # Basic tools for plotting and visualizing data
 seaborn     # Simplifies complex visualizations and statistical plots, built on matplotlib
 
+# Machine learning libraries
+scikit-learn
+
 # general-purpose interactivity library
 ipywidgets  
