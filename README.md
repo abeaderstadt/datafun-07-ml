@@ -61,4 +61,17 @@ IMPORTANT: Replace the commit message with a clear and descriptive note about wh
 
 ---
 # P7 Specification
+For Project 7, we'll implement the guided projects in our textbook's Chapters 10.16 and 15.4. Below are the steps followed for this project:
+1. Create a new notebook in your repository named beaderstadt_ml.ipynb
+- In a Markdown cell at the top of the notebook, add: Title, Author, A Clickable Link to your GitHub project repository
+- In a Python cell, add all your import statements
+2. Chart a Straight Line (Part 1)
+- Follow the instructions from 10.16 (starting page 414 in your textbook)
+- Use Markdown cells to create section headings as you work
+- Use pandas DataFrames to plot Celsius vs Fahrenheit 
+3. Predict Avg High Temp in NYC in January (Part 2)
+- Continue following the instructions from 10.16 (starting page 416)
+- Add a Markdown cell with a second-level heading named Part 2 - Prediction. Use third-level Markdown headings for each section within
+4. Predict Avg High Temp in NYC in January (Part 3)
+5. Add Your Insights (Part 4)
 ---
