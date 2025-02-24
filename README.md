@@ -61,17 +61,42 @@ IMPORTANT: Replace the commit message with a clear and descriptive note about wh
 
 ---
 # P7 Specification
-For Project 7, we'll implement the guided projects in our textbook's Chapters 10.16 and 15.4. Below are the steps followed for this project:
-1. Create a new notebook in your repository named beaderstadt_ml.ipynb
-- In a Markdown cell at the top of the notebook, add: Title, Author, A Clickable Link to your GitHub project repository
-- In a Python cell, add all your import statements
-2. Chart a Straight Line (Part 1)
-- Follow the instructions from 10.16 (starting page 414 in your textbook)
-- Use Markdown cells to create section headings as you work
-- Use pandas DataFrames to plot Celsius vs Fahrenheit 
-3. Predict Avg High Temp in NYC in January (Part 2)
-- Continue following the instructions from 10.16 (starting page 416)
-- Add a Markdown cell with a second-level heading named Part 2 - Prediction. Use third-level Markdown headings for each section within
-4. Predict Avg High Temp in NYC in January (Part 3)
-5. Add Your Insights (Part 4)
+## **Project Specifications**
+
+For **Project 7**, we'll follow the guided projects from Chapters 10.16 and 15.4 of your textbook. Below are the steps to complete the project:
+
+### **1. Create a New Notebook**
+- Create a new Jupyter notebook in your repository called `beaderstadt_ml.ipynb`.
+- In a Markdown cell at the top, add the following:
+  - **Title** of your project.
+  - **Author** name.
+  - A **clickable link** to your GitHub project repository.
+
+### **2. Chart a Straight Line (Part 1)**
+- Follow the instructions from 10.16 (starting on page 414 in your textbook).
+- Use Markdown cells to create section headings as you go along.
+- Use pandas DataFrames to plot Celsius vs. Fahrenheit.
+
+### **3. Predict Average High Temp in NYC for January (Part 2)**
+- Follow the instructions from 10.16 (starting on page 416).
+- Organize the notebook with these sections:
+  - **Part 2 - Prediction** (second-level Markdown heading)
+  - **Section 1 - Data Acquisition**: Load the NYC January high temperature data from a CSV file into a DataFrame.
+  - **Section 2 - Data Inspection**: Inspect the first and last few rows of the dataset.
+  - **Section 3 - Data Cleaning**: Clean up the dataset, rename columns, and adjust the date series.
+  - **Section 4 - Descriptive Statistics**: Use `describe()` to calculate basic stats for the dataset.
+  - **Section 5 - Build the Model**: Use the SciPy `linregress` function to calculate the slope and intercept of the best fit line.
+  - **Section 6 - Predict**: Use your model to predict the average high temperature for January 2024.
+  - **Section 7 - Visualizations**: Create a scatter plot with a best-fit line using Seaborn.
+
+### **4. Predict Average High Temp in NYC for January (Part 3)**
+- **Section 1 - Build the Model**: Split the data into training and testing sets using `train_test_split`.
+- **Section 2 - Test the Model**: Test the model and evaluate its predictions.
+- **Section 3 - Predict**: Predict the average high temperature for January 2024.
+- **Section 4 - Visualizations**: Create a scatter plot with a best-fit line using Seaborn.
+
+### **5. Add Your Insights (Part 4)**
+- At the end of your notebook, add a second-level Markdown heading for **Part 4 - Insights**.
+- Include your observations comparing the two methods you used in the project.
+
 ---
