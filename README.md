@@ -65,7 +65,20 @@ IMPORTANT: Replace the commit message with a clear and descriptive note about wh
 # Project 7
 ## **Project Specifications**
 
-For **Project 7**, we'll follow the guided projects from Chapters 10.16 and 15.4 of your textbook. Below are the steps to complete the project:
+For **Project 7**, we'll follow the guided projects from Chapters 10.16 and 15.4 of the textbook. 
+## Accessing Textbook Examples
+
+To access the textbook examples saved on my computer:
+
+1. Navigate to 'projects' folder:
+   - On Windows, open File Explorer and go to `C:\Users\<YourUsername>\projects\`.
+   - On macOS, open Finder and go to `/Users/<YourUsername>/projects/`.
+
+2. Inside the 'projects' folder, open the `IntroToPython-master` folder to find all of the textbook examples.
+
+3. You can open the relevant Python scripts or notebooks from this folder to follow along with the examples in the textbook. From the ch10 examples folder I have copied ave_hi_nyc_jan_1895-2018.csv into this repo for use.
+
+Below are the steps to complete the project:
 
 ### **1. Create a New Notebook**
 - Create a new Jupyter notebook in your repository called `beaderstadt_ml.ipynb`.
